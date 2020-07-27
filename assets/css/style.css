@@ -1,0 +1,207 @@
+.btn-size-sm {
+    width: 30px;
+    height: 30px;
+}
+
+.small-input {
+    width: 171px;
+}
+
+.modal-dialog.profile-edit img {
+    width: 80px;
+    height: 80px;
+}
+
+/* Autocomplete */
+.twitter-typeahead,
+.typeahead,
+.tt-query,
+.tt-hint {
+    width: 100%;
+    height: 100%;
+}
+
+.typeahead {
+    background-color: #fff;
+}
+
+.typeahead:focus {
+    border: 2px solid #0097cf;
+}
+
+.tt-hint {
+    color: #999;
+}
+
+.tt-menu {
+    width: 100%;
+    margin: 4px 0;
+    padding: 8px 0;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border: 1px solid rgba(0, 0, 0, 0.2);
+    -webkit-border-radius: 8px;
+    -moz-border-radius: 8px;
+    border-radius: 8px;
+    -webkit-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    -moz-box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+}
+
+.tt-suggestion {
+    padding: 3px 20px;
+}
+
+.tt-suggestion:hover {
+    cursor: pointer;
+    color: #fff;
+    background-color: #0097cf;
+}
+
+.tt-suggestion.tt-cursor {
+    color: #fff;
+    background-color: #0097cf;
+}
+
+.tt-suggestion p {
+    margin: 0;
+}
+
+.gist {
+    font-size: 14px;
+}
+
+/* Login */
+html.login,
+body.login {
+    height: 100%;
+}
+.login h1 {
+    text-shadow: 1px 1px 1px rgba(255, 255, 255, 0.5);
+}
+.login-button {
+    width: 100%;
+}
+
+/* Menu Display */
+.user-information {
+    line-height: 1em;
+}
+.user-information span.name {
+    font-weight: bold !important;
+}
+
+/* Employe */
+.card-profile {
+    width: 100px;
+    height: 100px;
+}
+.card.employe p {
+    font-size: 0.8em;
+}
+.card.employe {
+    width: 237px;
+}
+
+/* Profile */
+.card.profile {
+    max-width: 540px;
+}
+.card.profile img {
+    width: 180px;
+    height: 180px;
+}
+
+/* Input Output Report Style */
+.input-output-stock-report .txt-justify {
+    text-align: justify;
+}
+.input-output-stock-report h1 {
+    text-align: center;
+}
+.author {
+    width: 35%;
+    float: right;
+    margin-bottom: 20px;
+}
+.author .row .title {
+    width: 35%;
+    float: left;
+}
+.author .row .content {
+    width: 65%;
+}
+.author .row .content .double-dot {
+    width: 5%;
+    float: left;
+}
+.input-output-stock-report .result {
+    width: 100%;
+    border: 1px solid black;
+    border-radius: 20px;
+    padding: 10px;
+    margin-bottom: 20px;
+}
+.input-output-stock-report header {
+    clear: both;
+}
+.input-output-stock-report header .row {
+    width: 100%;
+    clear: both;
+}
+.input-output-stock-report header .row .title {
+    width: 32%;
+    float: left;
+}
+.input-output-stock-report header .row .content {
+    width: 68%;
+}
+.input-output-stock-report header .row .content .double-dot {
+    width: 5%;
+    float: left;
+}
+.input-output-stock-report header .box1,
+.input-output-stock-report header .box2 {
+    float: left;
+    width: 53.2%;
+    padding: 10px;
+}
+.input-output-stock-report header .box1 {
+    width: 35%;
+}
+.input-output-stock-report .data table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    padding: 0;
+}
+.input-output-stock-report .data table,
+.input-output-stock-report .data table th,
+.input-output-stock-report .data table td {
+    border: 1px solid black;
+    padding: 7px;
+}
+.input-output-stock-report .data table th {
+    border-bottom: none;
+}
+
+/* Stock Report */
+.stock-report h1 {
+    text-align: center;
+}
+.stock-report .result {
+    clear: both;
+    width: 100%;
+}
+.stock-report .result table,
+.stock-report .result th,
+.stock-report .result td {
+    border: 1px solid black;
+    padding: 6px;
+}
+.stock-report .result table {
+    width: 100%;
+    text-align: center;
+    border-collapse: collapse;
+    padding: 0;
+}
